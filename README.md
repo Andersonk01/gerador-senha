@@ -1,10 +1,11 @@
 # Projeto de Geração de Senhas Aleatórias com React Native - AsyncStorage
 
+<div style="display: flex; gap: 2px;">
 <img src="./assets/screenHome.png" alt="screenHome" style="width: 200px;"/>
-<img src="./assets/./assets/screenSenhaGerada.png" alt="screenSenhaGerada" style="width: 200px;"/>
-<img src="./assets/./assets/screenPassword.png" alt="screenPassword" style="width: 200px;"/>
-<img src="./assets/./assets/screenCopy.png" alt="screenCopy" style="width: 200px;"/>
-
+<img src="./assets/screenSenhaGerada.png" alt="screenSenhaGerada" style="width: 200px;"/>
+<img src="./assets/screenPassword.png" alt="screenPassword" style="width: 200px;"/>
+<img src="./assets/screenCopy.png" alt="screenCopy" style="width: 200px;"/>
+</div>
 ## Descrição
 
 Este projeto consiste em um aplicativo desenvolvido utilizando React Native, com o propósito de gerar senhas aleatórias e armazená-las no dispositivo móvel. A persistência de dados é realizada através do AsyncStorage, proporcionando ao usuário a capacidade de criar, visualizar e excluir senhas de forma segura.
