@@ -1,9 +1,9 @@
 # Projeto de Geração de Senhas Aleatórias com React Native - AsyncStorage
 
-![screenHome](./assets/screenHome.png)
-![screenSenhaGerada](./assets/screenSenhaGerada.png)
-![screenPassword](./assets/screenPassword.png)
-![screenCopy](./assets/screenCopy.png)
+<img src="./assets/screenHome.png" alt="screenHome" style="width: 200px;"/>
+<img src="./assets/./assets/screenSenhaGerada.png" alt="screenSenhaGerada" style="width: 200px;"/>
+<img src="./assets/./assets/screenPassword.png" alt="screenPassword" style="width: 200px;"/>
+<img src="./assets/./assets/screenCopy.png" alt="screenCopy" style="width: 200px;"/>
 
 ## Descrição
 
