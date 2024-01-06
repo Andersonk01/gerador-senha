@@ -6,6 +6,7 @@
 <img src="./assets/screenPassword.png" alt="screenPassword" style="width: 200px;"/>
 <img src="./assets/screenCopy.png" alt="screenCopy" style="width: 200px;"/>
 </div>
+
 ## Descrição
 
 Este projeto consiste em um aplicativo desenvolvido utilizando React Native, com o propósito de gerar senhas aleatórias e armazená-las no dispositivo móvel. A persistência de dados é realizada através do AsyncStorage, proporcionando ao usuário a capacidade de criar, visualizar e excluir senhas de forma segura.
